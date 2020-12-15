@@ -1,0 +1,13 @@
+.flex-container{
+  flex-wrap: wrap;
+  flex: show;
+  align-content: center;
+}
+.border{
+
+}
+.bolder{
+  font-weight: normal;
+  font-weight: bold;
+  font-weight: 900;
+}
